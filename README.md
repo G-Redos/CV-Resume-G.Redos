@@ -4,9 +4,9 @@
     <a href="https://www.linkedin.com/in/gredos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-91a3b0?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
     <a href="https://twitter.com/g_redos" target="_blank"><img src="https://img.shields.io/badge/Twitter-91a3b0?style=for-the-badge&logo=twitter&logoColor=white"target="_blank"></a>
     <a href="https://www.gregoryredos.com" target="_blank"><img src="https://img.shields.io/badge/website-91a3b0?style=for-the-badge&logo=About.me&logoColor=white"target="_blank"></a>
- </div>
+</div>
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=130&section=header&text=Gregory%20Redos&fontSize=90&animation=scaleIn&fontAlignY=68&desc=Junior%20Full%20Stack%20Developer&descSize=20&descAlignY=82&descAlign=72)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=130&section=header&text=Gregory%20Redos&fontSize=90&animation=scaleIn&fontAlignY=68&desc=Junior%20Full%20Stack%20Developer&descSize=20&descAlignY=82&descAlign=71)
 
 ## PERSONAL SUMMARY
 A top-performing professional with strong quantitative and technical skills coupled with a keen ability to recognize the needs of engagement. Strong transformational skills applicable to scenarios that require operational foresight. Excellent communication and leadership skills with a reputation for resolving challenges with innovative solutions, systems, and process improvements proven to increase efficiency and satisfaction levels. Personally, and professionally committed to workflow improvement with a strong track record for implementing process changes that increase the quality of services and deliverables.
@@ -81,6 +81,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+## LINKS
+- Codecademy - https://www.codecademy.com/profiles/G.Redos
+- Codewars - https://www.codewars.com/users/g-redos 
+- FreeCodeCamp - https://www.freecodecamp.org/fcc6f52230a-6d1d-4d58-ad5c-ac1c7eaa67f6
+- Github - https://github.com/G-Redos  
+- Microsoft Learn - https://learn.microsoft.com/en-us/users/gregoryredos-6641/
+
 
 ## TECH STACK
 | IDE                         | Languages       | Framework/Library    |
@@ -89,10 +96,33 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 | **Acebook** | A social media web application, like Facebook | Node.js, Express.js, MongoDB,Mongoose, Handlebars, Jest              |
 
 ## CERTIFICATION
-| IDE                         | LANGUAGES       | FRAMEWORK/LIBRARY    |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Acebook** | A social media web application, like Facebook | Node.js, Express.js, MongoDB,Mongoose, Handlebars, Jest              |
+- Google IT Automation with Python – Ongoing Training
+    - dfsadfa
+    - 
+    - 
+    - 
+    - 
+- Google UX/UI Design – Ongoing Training
+- Google Project Management – Ongoing Training
+- Digital Project Management – Ongoing Training
+- Scrum Master – Ongoing Training
+- Atlassian: Confluence - Foundations
+- Atlassian: Jira - Foundations
+- Atlassian: Trello - Foundations
+- Microsoft: Teams
+- Microsoft: OneNote
+- AgilePM Practitioner		
+- AgilePM Foundations			
+- PRINCE2 Practitioner 6th Edition	
+- PRINCE2 Foundations 6th Edition
+- Google Analytics for Beginners
+- Google Fundamentals of Digital Marketing - REF NR: G4A KFA YT9
+- CompTIA A+ - REG NR: 242987402/VAL	
+- Cisco IT Essentials: PC Hardware and Software - REF NR: 3829712     
+ 
+
+
+
 
 ## EDUCATION
 * **2022/11 – Makers Academy**
@@ -110,15 +140,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 * **2013/11 – CLARK UNIVERSITY, WORCESTER MA, U.S.A.**
     - Master’s Degree in Professional Communications 
     - NARIC: RGF Level 7/SCQF 11/CQFW Level 7
-
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
 
 ## LANGUAGES
 * **English** – Native or bilingual proficiency
@@ -154,4 +175,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
     <a href="https://www.linkedin.com/in/gredos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-91a3b0?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
     <a href="https://twitter.com/g_redos" target="_blank"><img src="https://img.shields.io/badge/Twitter-91a3b0?style=for-the-badge&logo=twitter&logoColor=white"target="_blank"></a>
     <a href="https://www.gregoryredos.com" target="_blank"><img src="https://img.shields.io/badge/website-91a3b0?style=for-the-badge&logo=About.me&logoColor=white"target="_blank"></a>
- </div>
+</div>
