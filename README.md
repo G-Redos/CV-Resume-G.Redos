@@ -58,6 +58,11 @@ A top-performing professional with strong quantitative and technical skills coup
 | IDE                         | Languages       | Framework/Library    |
 | ------                      | ---             | ---                  |
 
+| Name   | Age |
+| ------ | --- |
+| Kealan | 25  |
+| Jake   | 28  |
+
 ## CERTIFICATION
 - Google IT Automation with Python – Ongoing Training
     - Crash Course on Python
