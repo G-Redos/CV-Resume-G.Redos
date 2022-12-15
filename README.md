@@ -1,12 +1,12 @@
 <div align="center">
-    <a href="https://github.com/G-Redos/CV-Resume-G.Redos" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CV/RESUME&color=6f00ff&logo=About.me&logoColor=FFFFFF&label="target="_blank"></a>
-    <a href="https://github.com/G-Redos" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"target="_blank"></a>
-    <a href="https://www.linkedin.com/in/gredos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
-    <a href="https://www.gregoryredos.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"target="_blank"></a>
-    <a href="https://twitter.com/g_redos" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"target="_blank"></a>
-</div>
+    <a href="https://github.com/G-Redos/CV-Resume-G.Redos" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CV/RESUME&color=91a3b0&logo=About.me&logoColor=FFFFFF&label="target="_blank"></a>
+    <a href="https://github.com/G-Redos" target="_blank"><img src="https://img.shields.io/badge/GitHub-91a3b0?style=for-the-badge&logo=github&logoColor=white"target="_blank"></a>
+    <a href="https://www.linkedin.com/in/gredos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-91a3b0?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
+    <a href="https://twitter.com/g_redos" target="_blank"><img src="https://img.shields.io/badge/Twitter-91a3b0?style=for-the-badge&logo=twitter&logoColor=white"target="_blank"></a>
+    <a href="https://www.gregoryredos.com" target="_blank"><img src="https://img.shields.io/badge/website-91a3b0?style=for-the-badge&logo=About.me&logoColor=white"target="_blank"></a>
+ </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=165&section=header&text=Gregory%20Redos&fontSize=90&animation=scaleIn&fontAlignY=50&desc=Junior%20Full%20Stack%20Developer&descSize=20&descAlignY=63&descAlign=72)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=165&section=header&text=Gregory%20Redos&fontSize=90&animation=scaleIn&fontAlignY=50&desc=Junior%20Full%20Stack%20Developer&descSize=20&descAlignY=63&descAlign=72)
 
 ## PERSONAL SUMMARY
 A top-performing professional with strong quantitative and technical skills coupled with a keen ability to recognize the needs of engagement. Strong transformational skills applicable to scenarios that require operational foresight. Excellent communication and leadership skills with a reputation for resolving challenges with innovative solutions, systems, and process improvements proven to increase efficiency and satisfaction levels. Personally, and professionally committed to workflow improvement with a strong track record for implementing process changes that increase the quality of services and deliverables.
@@ -83,16 +83,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 
 ## TECH STACK
-| IDE                         | LANGUAGES       | FRAMEWORK/LIBRARY    |
+| IDE                         | Languages       | Framework/Library    |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Acebook** | A social media web application, like Facebook | Node.js, Express.js, MongoDB,Mongoose, Handlebars, Jest              |
 
 ## CERTIFICATION
-    | IDE                         | LANGUAGES       | FRAMEWORK/LIBRARY    |
-    | ---------------------------- | ----------------- | ----------------- |
-    | **Final project**            | A webapp to do x. | React, Jest, etc. |
-    | **Acebook** | A social media web application, like Facebook | Node.js, Express.js, MongoDB,Mongoose, Handlebars, Jest              |
+| IDE                         | LANGUAGES       | FRAMEWORK/LIBRARY    |
+| ---------------------------- | ----------------- | ----------------- |
+| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Acebook** | A social media web application, like Facebook | Node.js, Express.js, MongoDB,Mongoose, Handlebars, Jest              |
+
 ## EDUCATION
 * **2022/11 – Makers Academy**
     Master’s Degree in International Business Management
@@ -120,26 +121,25 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 * **English** – Native or bilingual proficiency
 * **Polish** – Native or bilingual proficiency
 * **German** – Professional working proficiency
-* **Russian** – Elementary proficiency 
-## VOLUNTEER EXPERIENCE
-*   **Bank of America**, Advisory Panel Member 2020/12 – Present  
-*   **Clark University**, Alumni Board Member 2018/01 – 2020/06
-*   **Federation of Food Banks** Voluteer 2017/11 – Present
-*   **AMCHAM**, Volunteer 2011/12 – Present
+* **Russian** – Elementary proficiency
 
+## VOLUNTEER EXPERIENCE
+*   **Bank of America**, Advisory Panel Member: 2020/12 – Present  
+*   **Clark University**, Alumni Board Member: 2018/01 – 2020/06
+*   **Federation of Food Banks**, Voluteer: 2017/11 – Present
+*   **AMCHAM**, Volunteer: 2011/12 – Present
 
 ## HONORS & AWARDS
 - League of Green Embassies Award – Embassy of the United States of America
 - Letter of Appreciation – United States Department of State
 
+## Any cool stuff that makes you a super part of a software development team
 
-Any cool stuff that makes you a super part of a software development team
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=75&section=footer)
 <div align="center">
-    <a href="https://github.com/G-Redos/CV-Resume-G.Redos" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CV/RESUME&color=6f00ff&logo=About.me&logoColor=FFFFFF&label="target="_blank"></a>
-    <a href="https://github.com/G-Redos" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"target="_blank"></a>
-    <a href="https://www.linkedin.com/in/gredos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
-    <a href="https://www.gregoryredos.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"target="_blank"></a>
-    <a href="https://twitter.com/g_redos" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"target="_blank"></a>
-</div>
+    <a href="https://github.com/G-Redos/CV-Resume-G.Redos" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CV/RESUME&color=91a3b0&logo=About.me&logoColor=FFFFFF&label="target="_blank"></a>
+    <a href="https://github.com/G-Redos" target="_blank"><img src="https://img.shields.io/badge/GitHub-91a3b0?style=for-the-badge&logo=github&logoColor=white"target="_blank"></a>
+    <a href="https://www.linkedin.com/in/gredos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-91a3b0?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
+    <a href="https://twitter.com/g_redos" target="_blank"><img src="https://img.shields.io/badge/Twitter-91a3b0?style=for-the-badge&logo=twitter&logoColor=white"target="_blank"></a>
+    <a href="https://www.gregoryredos.com" target="_blank"><img src="https://img.shields.io/badge/website-91a3b0?style=for-the-badge&logo=About.me&logoColor=white"target="_blank"></a>
+ </div>
