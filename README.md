@@ -68,11 +68,7 @@ Consider skills relevent to software development. Then consider your best skills
 
 -What was the result?
 
-## TECH STACK
-| IDE                         | LANGUAGES       | FRAMEWORK/LIBRARY    |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Acebook** | A social media web application, like Facebook | Node.js, Express.js, MongoDB,Mongoose, Handlebars, Jest              |
+
 
 
 
@@ -91,6 +87,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+
+## TECH STACK
+| IDE                         | LANGUAGES       | FRAMEWORK/LIBRARY    |
+| ---------------------------- | ----------------- | ----------------- |
+| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Acebook** | A social media web application, like Facebook | Node.js, Express.js, MongoDB,Mongoose, Handlebars, Jest              |
 ## EDUCATION
 •**2022/11 – Makers Academy**
     Master’s Degree in International Business Management
@@ -136,3 +138,9 @@ That in some arguable way make you a better software developer or well-rounded p
 Any cool stuff that makes you a super part of a software development team
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer)
+<div align="center">
+    <a href="https://github.com/G-Redos" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"target="_blank"></a>
+    <a href="https://www.linkedin.com/in/gredos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
+    <a href="https://www.gregoryredos.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"target="_blank"></a>
+    <a href="https://twitter.com/g_redos" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"target="_blank"></a>
+</div>
