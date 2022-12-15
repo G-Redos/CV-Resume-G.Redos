@@ -1,6 +1,6 @@
-## Your Name
+# Gregory Redos
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A top-performing professional with strong quantitative and technical skills coupled with a keen ability to recognize the needs of engagement. Strong transformational skills applicable to scenarios that require operational foresight. Excellent communication and leadership skills with a reputation for resolving challenges with innovative solutions, systems, and process improvements proven to increase efficiency and satisfaction levels. Personally, and professionally committed to workflow improvement with a strong track record for implementing process changes that increase the quality of services and deliverables.
 
 ## Projects
 
@@ -10,6 +10,33 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
+**DIGITAL PROJECT MANAGER, EFWP: 2020/02 – PRESENT**
+•	Collaborating effectively with key stakeholders to ensure projects remained on track.
+•	Creating schedules and designing processes.
+•	Preparing and presenting software proposals to decision makers to negotiate agreements.
+•	Identification of business needs of internal users and customers.
+•	Contacting service suppliers, supervising over delivered solutions.
+•	Authoring or revising project plans, business requirements, functional specifications.
+•	Identifying and managing risks to ensure delivery is on time.
+•	Designing mockups, UI/UX functionalities and product development.
+•	Prioritizing tasks, monitoring the quality and time delivery.
+•	Conducting product and technical consultations for business teams.
+
+**OFFICE MANAGER, EFWP: 2017/03 – 2020/02**
+•	Managed and maintained calendars for office executives.
+•	Oversaw the daily operations and schedules of over 95 employees.
+•	Logistic coordination involving suppliers, agreements, invoices.
+•	Liaised with clients, vendors, and building maintenance including security.
+•	Spearheaded the move to a paperless system which saved the company £20,240 annually and freed up 15% of office space previously used for document storage.
+•	Managing the work of project teams.
+
+**ASSISTANT PROJECT MANAGER, EUROPEAN CHESS FEDERATION: 2014/09 – 2017/03**
+•	Successfully implemented first technological revolution in teaching chess in Poland using state-of-the-art technology in both public schools and private schools.
+•	Providing administrative support to multiple Senior Project Managers and was responsible for developing and coordinating the project schedules.
+•	Coordinating the implementation of new daily procedures which led to a significant increase in effectiveness and reduction in unnecessary costs by 30%.
+•	Responsible for business negotiations, governance with distributors and suppliers.
+•	Contact with Program Board members and speakers.
+•	Event and customer service.
 
 **Company Name** (start-date to end-date)  
 _Your job title_
@@ -51,7 +78,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+## EDUCATION
+•**2022/11 – Makers Academy**
+    Master’s Degree in International Business Management
+
+•**2021/09 – UNIVERSITY OF SOCIAL SCIENCES, WARSAW, POLAND**
+    Master’s Degree in International Business Management
+
+•**2013/11 – UNIVERSITY OF SOCIAL SCIENCES, LODZ, POLAND**
+    Postgraduate Degree in Management
+
+•**2013/11 – CLARK UNIVERSITY, WORCESTER MA, U.S.A.**
+    Master’s Degree in Professional Communications 
+    (NARIC: RGF Level 7/SCQF 11/CQFW Level 7)
 
 #### Makers Academy (start_date to end_date)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
@@ -62,16 +101,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+## LANGUAGES
+•	**English** – Native or bilingual proficiency
+•	**Polish** – Native or bilingual proficiency
+•	**German** – Professional working proficiency
+•	**Russian** – Elementary proficiency 
+
+
 #### Your University / College (start_date to end_date)
 
 - Subject, any specialisms
 - Grade
 - Other cool stuff
 
-#### Any other qualifications
+## VOLUNTEER EXPERIENCE
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
+## HONORS & AWARDS
 
 Any cool stuff that makes you a super part of a software development team
