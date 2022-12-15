@@ -6,7 +6,7 @@
     <a href="https://www.gregoryredos.com" target="_blank"><img src="https://img.shields.io/badge/website-91a3b0?style=for-the-badge&logo=About.me&logoColor=white"target="_blank"></a>
  </div>
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=130&section=header&text=Gregory%20Redos&fontSize=90&animation=scaleIn&fontAlignY=60&desc=Junior%20Full%20Stack%20Developer&descSize=20&descAlignY=63&descAlign=72)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=130&section=header&text=Gregory%20Redos&fontSize=90&animation=scaleIn&fontAlignY=80&desc=Junior%20Full%20Stack%20Developer&descSize=20&descAlignY=63&descAlign=72)
 
 ## PERSONAL SUMMARY
 A top-performing professional with strong quantitative and technical skills coupled with a keen ability to recognize the needs of engagement. Strong transformational skills applicable to scenarios that require operational foresight. Excellent communication and leadership skills with a reputation for resolving challenges with innovative solutions, systems, and process improvements proven to increase efficiency and satisfaction levels. Personally, and professionally committed to workflow improvement with a strong track record for implementing process changes that increase the quality of services and deliverables.
