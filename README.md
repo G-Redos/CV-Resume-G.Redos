@@ -11,14 +11,14 @@
 ## PERSONAL SUMMARY
 A top-performing professional with strong quantitative and technical skills coupled with a keen ability to recognize the needs of engagement. Strong transformational skills applicable to scenarios that require operational foresight. Excellent communication and leadership skills with a reputation for resolving challenges with innovative solutions, systems, and process improvements proven to increase efficiency and satisfaction levels. Personally, and professionally committed to workflow improvement with a strong track record for implementing process changes that increase the quality of services and deliverables.
 
-## Projects
+## PROJECTS
 
 | Name                         | Description       | Tech Stack        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Acebook** | A social media web application, like Facebook | Node.js, Express.js, MongoDB,Mongoose, Handlebars, Jest              |
 
-## Work Experience
+## WORK EXPERIENCE
 **DIGITAL PROJECT MANAGER, EFWP: 2020/02 – PRESENT**
 * Collaborating effectively with key stakeholders to ensure projects remained on track.
 * Creating schedules and designing processes.
@@ -135,7 +135,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Any cool stuff that makes you a super part of a software development team
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=50&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=40&section=footer)
 <div align="center">
     <a href="https://github.com/G-Redos/CV-Resume-G.Redos" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CV/RESUME&color=91a3b0&logo=About.me&logoColor=FFFFFF&label="target="_blank"></a>
     <a href="https://github.com/G-Redos" target="_blank"><img src="https://img.shields.io/badge/GitHub-91a3b0?style=for-the-badge&logo=github&logoColor=white"target="_blank"></a>
