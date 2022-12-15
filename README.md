@@ -19,9 +19,9 @@ A top-performing professional with strong quantitative and technical skills coup
 ## PROJECTS
 | Name                         | Description       | Tech/Tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Tetris A.I.**](https://github.com/G-Redos/MAKERS-W12-Final-Project-Tetris-AI) | A game of games built with a custom game engine | Python |
-| [**Tetris**](https://github.com/G-Redos/MAKERS-W11-Final-Project-Tetris) | A game of games built with a custom game engine | Python, Pygame |
-| [**Acebook**](https://github.com/ritaaktay/acebook)  | A social media web application, like Facebook | Node.js, Express.js, MongoDB / Mongoose, Handlebars, Jest |
+| [**Tetris .A.I.**](https://github.com/G-Redos/MAKERS-W12-Final-Project-Tetris-AI) | A game of games built with a custom game engine | Python |
+| [**Tetris**](https://github.com/G-Redos/MAKERS-W11-Final-Project-Tetris) | A famous game, that everyone remembers | Python, Pygame |
+| [**Acebook**](https://github.com/ritaaktay/acebook)  | A social media web application, like Facebook | Node.js, Express.js, MongoDB, Mongoose, Handlebars, Jest |
 | [**Makers BnB**](https://github.com/G-Redos/MAKERS-W5-makersbnb-ruby-seed) | A web application for accommodation bookings, like Airbnb. | Ruby, Sinatra, PostgreSQL, ERB, RSpec |
 
 ## WORK EXPERIENCE
@@ -53,12 +53,6 @@ A top-performing professional with strong quantitative and technical skills coup
 * Contact with Program Board members and speakers.
 * Event and customer service.
 
-## LINKS
-- **Codecademy** - https://www.codecademy.com/profiles/G.Redos
-- **Codewars** - https://www.codewars.com/users/g-redos 
-- **FreeCodeCamp** - https://www.freecodecamp.org/fcc6f52230a-6d1d-4d58-ad5c-ac1c7eaa67f6
-- **GitHub** - https://github.com/G-Redos  
-- **Microsoft Learn** - https://learn.microsoft.com/en-us/users/gregoryredos-6641/
 
 ## TECH STACK
 | IDE                         | Languages       | Framework/Library    |
@@ -92,6 +86,13 @@ A top-performing professional with strong quantitative and technical skills coup
 - CompTIA A+ - REG NR: 242987402/VAL	
 - Cisco IT Essentials: PC Hardware and Software - REF NR: 3829712     
  
+## LINKS
+- **Codecademy** - https://www.codecademy.com/profiles/G.Redos
+- **Codewars** - https://www.codewars.com/users/g-redos 
+- **FreeCodeCamp** - https://www.freecodecamp.org/fcc6f52230a-6d1d-4d58-ad5c-ac1c7eaa67f6
+- **GitHub** - https://github.com/G-Redos  
+- **Microsoft Learn** - https://learn.microsoft.com/en-us/users/gregoryredos-6641/
+
 ## EDUCATION
 * **2022/11 – Makers Academy**
     - Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
