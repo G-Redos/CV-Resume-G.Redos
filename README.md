@@ -6,10 +6,15 @@
     <a href="https://www.gregoryredos.com" target="_blank"><img src="https://img.shields.io/badge/website-91a3b0?style=for-the-badge&logo=About.me&logoColor=white"target="_blank"></a>
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=130&section=header&text=Gregory%20Redos&fontSize=90&animation=scaleIn&fontAlignY=68&desc=Junior%20Full%20Stack%20Developer&descSize=20&descAlignY=82&descAlign=71)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=130&section=header&text=Gregory%20Redos&fontSize=90&animation=scaleIn&fontAlignY=68&desc=Junior%20Full%20Stack%20Developer&descSize=20&descAlignY=82&descAlign=72)
 
 ## PERSONAL SUMMARY
 A top-performing professional with strong quantitative and technical skills coupled with a keen ability to recognize the needs of engagement. Strong transformational skills applicable to scenarios that require operational foresight. Excellent communication and leadership skills with a reputation for resolving challenges with innovative solutions, systems, and process improvements proven to increase efficiency and satisfaction levels. Personally, and professionally committed to workflow improvement with a strong track record for implementing process changes that increase the quality of services and deliverables.
+
+## SKILLS
+• Project Management		• Project Planning		• Adaptability       	                     • Creative Thinking		• Customer Service		• Problem Solving
+• Team Work 			• Empathy			• Detail-Oriented • 
+
 
 ## PROJECTS
 
@@ -97,11 +102,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## CERTIFICATION
 - Google IT Automation with Python – Ongoing Training
-    - dfsadfa
-    - 
-    - 
-    - 
-    - 
+    - Crash Course on Python
+    - Using Python to Interact with the Operating System
+    - Introduction to Git and GitHub
+    - Troubleshooting and Debugging Techniques
+    - Configuration Management and the Cloud
+    - Automating Real-World Tasks with Python
 - Google UX/UI Design – Ongoing Training
 - Google Project Management – Ongoing Training
 - Digital Project Management – Ongoing Training
@@ -129,15 +135,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
     - Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
     - OOP, TDD, MVC, DDD
     - Agile/XP
-    - Ruby, Rails, JavaScript
-    - RSpec, Jasmine
+    - Ruby, JavaScript, Python
+    - RSpec, Pytest
 
 * **2021/09 – University of Social Sciences, Warsaw/Poland**
     - Master’s Degree in International Business Management
 
 * **2013/11 – University of Social Sciences, Warsaw/Poland**
     - Postgraduate Degree in Management
-* **2013/11 – CLARK UNIVERSITY, WORCESTER MA, U.S.A.**
+* **2013/11 – CLARK UNIVERSITY, WORCESTER MA, .U.S.A.**
     - Master’s Degree in Professional Communications 
     - NARIC: RGF Level 7/SCQF 11/CQFW Level 7
 
