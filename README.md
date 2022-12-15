@@ -8,7 +8,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=165&section=header&text=Gregory%20Redos&fontSize=90&animation=scaleIn&fontAlignY=50&desc=Junior%20Full%20Stack%20Developer&descSize=20&descAlignY=63&descAlign=72)
 
-
+## PERSONAL SUMMARY
 A top-performing professional with strong quantitative and technical skills coupled with a keen ability to recognize the needs of engagement. Strong transformational skills applicable to scenarios that require operational foresight. Excellent communication and leadership skills with a reputation for resolving challenges with innovative solutions, systems, and process improvements proven to increase efficiency and satisfaction levels. Personally, and professionally committed to workflow improvement with a strong track record for implementing process changes that increase the quality of services and deliverables.
 
 ## Projects
@@ -20,42 +20,33 @@ A top-performing professional with strong quantitative and technical skills coup
 
 ## Work Experience
 **DIGITAL PROJECT MANAGER, EFWP: 2020/02 – PRESENT**
-•	Collaborating effectively with key stakeholders to ensure projects remained on track.
-•	Creating schedules and designing processes.
-•	Preparing and presenting software proposals to decision makers to negotiate agreements.
-•	Identification of business needs of internal users and customers.
-•	Contacting service suppliers, supervising over delivered solutions.
-•	Authoring or revising project plans, business requirements, functional specifications.
-•	Identifying and managing risks to ensure delivery is on time.
-•	Designing mockups, UI/UX functionalities and product development.
-•	Prioritizing tasks, monitoring the quality and time delivery.
-•	Conducting product and technical consultations for business teams.
+* Collaborating effectively with key stakeholders to ensure projects remained on track.
+* Creating schedules and designing processes.
+* Preparing and presenting software proposals to decision makers to negotiate agreements.
+* Identification of business needs of internal users and customers.
+* Contacting service suppliers, supervising over delivered solutions.
+* Authoring or revising project plans, business requirements, functional specifications.
+* Identifying and managing risks to ensure delivery is on time.
+* Designing mockups, UI/UX functionalities and product development.
+* Prioritizing tasks, monitoring the quality and time delivery.
+* Conducting product and technical consultations for business teams.
 
 **OFFICE MANAGER, EFWP: 2017/03 – 2020/02**
-•	Managed and maintained calendars for office executives.
-•	Oversaw the daily operations and schedules of over 95 employees.
-•	Logistic coordination involving suppliers, agreements, invoices.
-•	Liaised with clients, vendors, and building maintenance including security.
-•	Spearheaded the move to a paperless system which saved the company £20,240 annually and freed up 15% of office space previously used for document storage.
-•	Managing the work of project teams.
+* Managed and maintained calendars for office executives.
+* Oversaw the daily operations and schedules of over 95 employees.
+* Logistic coordination involving suppliers, agreements, invoices.
+* Liaised with clients, vendors, and building maintenance including security.
+* Spearheaded the move to a paperless system which saved the company £20,240 annually and freed up 15% of office space previously used for document storage.
+* Managing the work of project teams.
 
 **ASSISTANT PROJECT MANAGER, EUROPEAN CHESS FEDERATION: 2014/09 – 2017/03**
-•	Successfully implemented first technological revolution in teaching chess in Poland using state-of-the-art technology in both public schools and private schools.
-•	Providing administrative support to multiple Senior Project Managers and was responsible for developing and coordinating the project schedules.
-•	Coordinating the implementation of new daily procedures which led to a significant increase in effectiveness and reduction in unnecessary costs by 30%.
-•	Responsible for business negotiations, governance with distributors and suppliers.
-•	Contact with Program Board members and speakers.
-•	Event and customer service.
+* Successfully implemented first technological revolution in teaching chess in Poland using state-of-the-art technology in both public schools and private schools.
+* Providing administrative support to multiple Senior Project Managers and was responsible for developing and coordinating the project schedules.
+* Coordinating the implementation of new daily procedures which led to a significant increase in effectiveness and reduction in unnecessary costs by 30%.
+* Responsible for business negotiations, governance with distributors and suppliers.
+* Contact with Program Board members and speakers.
+* Event and customer service.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
@@ -97,16 +88,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Acebook** | A social media web application, like Facebook | Node.js, Express.js, MongoDB,Mongoose, Handlebars, Jest              |
 ## EDUCATION
-•**2022/11 – Makers Academy**
+* **2022/11 – Makers Academy**
     Master’s Degree in International Business Management
 
-•**2021/09 – UNIVERSITY OF SOCIAL SCIENCES, WARSAW, POLAND**
+* **2021/09 – UNIVERSITY OF SOCIAL SCIENCES, WARSAW, POLAND**
     Master’s Degree in International Business Management
 
-•**2013/11 – UNIVERSITY OF SOCIAL SCIENCES, LODZ, POLAND**
+* **2013/11 – UNIVERSITY OF SOCIAL SCIENCES, LODZ, POLAND**
     Postgraduate Degree in Management
 
-•**2013/11 – CLARK UNIVERSITY, WORCESTER MA, U.S.A.**
+* **2013/11 – CLARK UNIVERSITY, WORCESTER MA, U.S.A.**
     Master’s Degree in Professional Communications 
     (NARIC: RGF Level 7/SCQF 11/CQFW Level 7)
 
@@ -120,21 +111,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - RSpec, Jasmine
 
 ## LANGUAGES
-•	**English** – Native or bilingual proficiency
-•	**Polish** – Native or bilingual proficiency
-•	**German** – Professional working proficiency
-•	**Russian** – Elementary proficiency 
-
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
+* **English** – Native or bilingual proficiency
+* **Polish** – Native or bilingual proficiency
+* **German** – Professional working proficiency
+* **Russian** – Elementary proficiency 
 ## VOLUNTEER EXPERIENCE
+*   **Bank of America**, Advisory Panel Member 2020/12 – Present  
+*   **Clark University**, Alumni Board Member 2018/01 – 2020/06
+*   **Federation of Food Banks** Voluteer 2017/11 – Present
+*   **AMCHAM**, Volunteer 2011/12 – Present
 
-That in some arguable way make you a better software developer or well-rounded person
 
 ## HONORS & AWARDS
 
