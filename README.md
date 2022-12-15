@@ -87,14 +87,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Acebook** | A social media web application, like Facebook | Node.js, Express.js, MongoDB,Mongoose, Handlebars, Jest              |
+
+## CERTIFICATION
+    | IDE                         | LANGUAGES       | FRAMEWORK/LIBRARY    |
+    | ---------------------------- | ----------------- | ----------------- |
+    | **Final project**            | A webapp to do x. | React, Jest, etc. |
+    | **Acebook** | A social media web application, like Facebook | Node.js, Express.js, MongoDB,Mongoose, Handlebars, Jest              |
 ## EDUCATION
 * **2022/11 – Makers Academy**
     Master’s Degree in International Business Management
 
-* **2021/09 – UNIVERSITY OF SOCIAL SCIENCES, WARSAW, POLAND**
+* **2021/09 – University of Social Sciences, Warsaw/Poland**
     Master’s Degree in International Business Management
 
-* **2013/11 – UNIVERSITY OF SOCIAL SCIENCES, LODZ, POLAND**
+* **2013/11 – University of Social Sciences, Warsaw/Poland**
     Postgraduate Degree in Management
 
 * **2013/11 – CLARK UNIVERSITY, WORCESTER MA, U.S.A.**
@@ -123,6 +129,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 
 ## HONORS & AWARDS
+- League of Green Embassies Award – Embassy of the United States of America
+- Letter of Appreciation – United States Department of State
+
 
 Any cool stuff that makes you a super part of a software development team
 
