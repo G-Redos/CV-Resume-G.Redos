@@ -1,9 +1,9 @@
 <div align="center">
-    <a href="https://github.com/G-Redos/CV-Resume-G.Redos" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CV/RESUME&color=91a3b0&logo=About.me&logoColor=FFFFFF&label="target="_blank"></a>
-    <a href="https://github.com/G-Redos" target="_blank"><img src="https://img.shields.io/badge/GitHub-91a3b0?style=for-the-badge&logo=github&logoColor=white"target="_blank"></a>
-    <a href="https://www.linkedin.com/in/gredos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-91a3b0?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
-    <a href="https://twitter.com/g_redos" target="_blank"><img src="https://img.shields.io/badge/Twitter-91a3b0?style=for-the-badge&logo=twitter&logoColor=white"target="_blank"></a>
-    <a href="https://www.gregoryredos.com" target="_blank"><img src="https://img.shields.io/badge/website-91a3b0?style=for-the-badge&logo=About.me&logoColor=white"target="_blank"></a>
+    <a href="https://github.com/G-Redos/CV-Resume-G.Redos" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CV/RESUME&color=c0c5ce&logo=About.me&logoColor=FFFFFF&label="target="_blank"></a>
+    <a href="https://github.com/G-Redos" target="_blank"><img src="https://img.shields.io/badge/GitHub-c0c5ce?style=for-the-badge&logo=github&logoColor=white"target="_blank"></a>
+    <a href="https://www.linkedin.com/in/gredos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-c0c5ce?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
+    <a href="https://twitter.com/g_redos" target="_blank"><img src="https://img.shields.io/badge/Twitter-c0c5ce?style=for-the-badge&logo=twitter&logoColor=white"target="_blank"></a>
+    <a href="https://www.gregoryredos.com" target="_blank"><img src="https://img.shields.io/badge/website-c0c5ce?style=for-the-badge&logo=About.me&logoColor=white"target="_blank"></a>
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=130&section=header&text=Gregory%20Redos&fontSize=90&animation=scaleIn&fontAlignY=68&desc=Junior%20Full%20Stack%20Developer&descSize=20&descAlignY=82&descAlign=72)
@@ -12,16 +12,17 @@
 A top-performing professional with strong quantitative and technical skills coupled with a keen ability to recognize the needs of engagement. Strong transformational skills applicable to scenarios that require operational foresight. Excellent communication and leadership skills with a reputation for resolving challenges with innovative solutions, systems, and process improvements proven to increase efficiency and satisfaction levels. Personally, and professionally committed to workflow improvement with a strong track record for implementing process changes that increase the quality of services and deliverables.
 
 ## SKILLS
-• Project Management		• Project Planning		• Adaptability       	                     • Creative Thinking		• Customer Service		• Problem Solving
-• Team Work 			• Empathy			• Detail-Oriented • 
+• Project Management    • Project Planning		• Adaptability        • Creative Thinking		• Customer Service		• Problem Solving
+• Team Work 			• Empathy               • Detail-Oriented 
 
 
 ## PROJECTS
-
-| Name                         | Description       | Tech Stack        |
+| Name                         | Description       | Tech/Tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Acebook** | A social media web application, like Facebook | Node.js, Express.js, MongoDB,Mongoose, Handlebars, Jest              |
+| [**Tetris A.I.**](https://github.com/G-Redos/MAKERS-W12-Final-Project-Tetris-AI) | A game of games built with a custom game engine | Python |
+| [**Tetris**](https://github.com/G-Redos/MAKERS-W11-Final-Project-Tetris) | A game of games built with a custom game engine | Python, Pygame |
+| [**Acebook**](https://github.com/ritaaktay/acebook)  | A social media web application, like Facebook | Node.js, Express.js, MongoDB / Mongoose, Handlebars, Jest |
+| [**Makers BnB**](https://github.com/G-Redos/MAKERS-W5-makersbnb-ruby-seed) | A web application for accommodation bookings, like Airbnb. | Ruby, Sinatra, PostgreSQL, ERB, RSpec |
 
 ## WORK EXPERIENCE
 **DIGITAL PROJECT MANAGER, EFWP: 2020/02 – PRESENT**
@@ -52,47 +53,12 @@ A top-performing professional with strong quantitative and technical skills coup
 * Contact with Program Board members and speakers.
 * Event and customer service.
 
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## LINKS
-- Codecademy - https://www.codecademy.com/profiles/G.Redos
-- Codewars - https://www.codewars.com/users/g-redos 
-- FreeCodeCamp - https://www.freecodecamp.org/fcc6f52230a-6d1d-4d58-ad5c-ac1c7eaa67f6
-- Github - https://github.com/G-Redos  
-- Microsoft Learn - https://learn.microsoft.com/en-us/users/gregoryredos-6641/
-
+- **Codecademy** - https://www.codecademy.com/profiles/G.Redos
+- **Codewars** - https://www.codewars.com/users/g-redos 
+- **FreeCodeCamp** - https://www.freecodecamp.org/fcc6f52230a-6d1d-4d58-ad5c-ac1c7eaa67f6
+- **GitHub** - https://github.com/G-Redos  
+- **Microsoft Learn** - https://learn.microsoft.com/en-us/users/gregoryredos-6641/
 
 ## TECH STACK
 | IDE                         | Languages       | Framework/Library    |
@@ -126,10 +92,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - CompTIA A+ - REG NR: 242987402/VAL	
 - Cisco IT Essentials: PC Hardware and Software - REF NR: 3829712     
  
-
-
-
-
 ## EDUCATION
 * **2022/11 – Makers Academy**
     - Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
@@ -143,6 +105,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 * **2013/11 – University of Social Sciences, Warsaw/Poland**
     - Postgraduate Degree in Management
+
 * **2013/11 – CLARK UNIVERSITY, WORCESTER MA, .U.S.A.**
     - Master’s Degree in Professional Communications 
     - NARIC: RGF Level 7/SCQF 11/CQFW Level 7
@@ -174,11 +137,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Kaizen
 - Education  
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=40&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=footer)
 <div align="center">
-    <a href="https://github.com/G-Redos/CV-Resume-G.Redos" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CV/RESUME&color=91a3b0&logo=About.me&logoColor=FFFFFF&label="target="_blank"></a>
-    <a href="https://github.com/G-Redos" target="_blank"><img src="https://img.shields.io/badge/GitHub-91a3b0?style=for-the-badge&logo=github&logoColor=white"target="_blank"></a>
-    <a href="https://www.linkedin.com/in/gredos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-91a3b0?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
-    <a href="https://twitter.com/g_redos" target="_blank"><img src="https://img.shields.io/badge/Twitter-91a3b0?style=for-the-badge&logo=twitter&logoColor=white"target="_blank"></a>
-    <a href="https://www.gregoryredos.com" target="_blank"><img src="https://img.shields.io/badge/website-91a3b0?style=for-the-badge&logo=About.me&logoColor=white"target="_blank"></a>
+    <a href="https://github.com/G-Redos/CV-Resume-G.Redos" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CV/RESUME&color=c0c5ce&logo=About.me&logoColor=FFFFFF&label="target="_blank"></a>
+    <a href="https://github.com/G-Redos" target="_blank"><img src="https://img.shields.io/badge/GitHub-c0c5ce?style=for-the-badge&logo=github&logoColor=white"target="_blank"></a>
+    <a href="https://www.linkedin.com/in/gredos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-c0c5ce?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
+    <a href="https://twitter.com/g_redos" target="_blank"><img src="https://img.shields.io/badge/Twitter-c0c5ce?style=for-the-badge&logo=twitter&logoColor=white"target="_blank"></a>
+    <a href="https://www.gregoryredos.com" target="_blank"><img src="https://img.shields.io/badge/website-c0c5ce?style=for-the-badge&logo=About.me&logoColor=white"target="_blank"></a>
 </div>
