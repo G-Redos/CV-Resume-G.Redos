@@ -96,17 +96,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## EDUCATION
 * **2022/11 – Makers Academy**
-    Master’s Degree in International Business Management
+    - Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+    - OOP, TDD, MVC, DDD
+    - Agile/XP
+    - Ruby, Rails, JavaScript
+    - RSpec, Jasmine
 
 * **2021/09 – University of Social Sciences, Warsaw/Poland**
-    Master’s Degree in International Business Management
+    - Master’s Degree in International Business Management
 
 * **2013/11 – University of Social Sciences, Warsaw/Poland**
-    Postgraduate Degree in Management
-
+    - Postgraduate Degree in Management
 * **2013/11 – CLARK UNIVERSITY, WORCESTER MA, U.S.A.**
-    Master’s Degree in Professional Communications 
-    (NARIC: RGF Level 7/SCQF 11/CQFW Level 7)
+    - Master’s Degree in Professional Communications 
+    - NARIC: RGF Level 7/SCQF 11/CQFW Level 7
 
 #### Makers Academy (start_date to end_date)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
@@ -130,10 +133,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *   **AMCHAM**, Volunteer: 2011/12 – Present
 
 ## HONORS & AWARDS
-- League of Green Embassies Award – Embassy of the United States of America
-- Letter of Appreciation – United States Department of State
+- **League of Green Embassies Award** – Embassy of the United States of America
+- **Letter of Appreciation** – United States Department of State
 
-## Any cool stuff that makes you a super part of a software development team
+## HOBBIES & INTERESTS
+- Volunteering
+- Artificial Intelligence 
+- Cryptocurrency
+- Digital Technologies
+- Video Games
+- Extreme Sports
+- Sailing
+- Kaizen
+- Education  
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=40&section=footer)
 <div align="center">
