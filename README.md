@@ -135,7 +135,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Any cool stuff that makes you a super part of a software development team
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=75&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=50&section=footer)
 <div align="center">
     <a href="https://github.com/G-Redos/CV-Resume-G.Redos" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CV/RESUME&color=91a3b0&logo=About.me&logoColor=FFFFFF&label="target="_blank"></a>
     <a href="https://github.com/G-Redos" target="_blank"><img src="https://img.shields.io/badge/GitHub-91a3b0?style=for-the-badge&logo=github&logoColor=white"target="_blank"></a>
