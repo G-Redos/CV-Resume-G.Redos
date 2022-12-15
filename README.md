@@ -56,9 +56,7 @@ A top-performing professional with strong quantitative and technical skills coup
 
 ## TECH STACK
 | IDE                         | Languages       | Framework/Library    |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Acebook** | A social media web application, like Facebook | Node.js, Express.js, MongoDB,Mongoose, Handlebars, Jest              |
+| ------                      | ---             | ---                  |
 
 ## CERTIFICATION
 - Google IT Automation with Python – Ongoing Training
@@ -85,13 +83,6 @@ A top-performing professional with strong quantitative and technical skills coup
 - Google Fundamentals of Digital Marketing - REF NR: G4A KFA YT9
 - CompTIA A+ - REG NR: 242987402/VAL	
 - Cisco IT Essentials: PC Hardware and Software - REF NR: 3829712     
- 
-## LINKS
-- **Codecademy** - https://www.codecademy.com/profiles/G.Redos
-- **Codewars** - https://www.codewars.com/users/g-redos 
-- **FreeCodeCamp** - https://www.freecodecamp.org/fcc6f52230a-6d1d-4d58-ad5c-ac1c7eaa67f6
-- **GitHub** - https://github.com/G-Redos  
-- **Microsoft Learn** - https://learn.microsoft.com/en-us/users/gregoryredos-6641/
 
 ## EDUCATION
 * **2022/11 – Makers Academy**
@@ -116,6 +107,13 @@ A top-performing professional with strong quantitative and technical skills coup
 * **Polish** – Native or bilingual proficiency
 * **German** – Professional working proficiency
 * **Russian** – Elementary proficiency
+
+## LINKS
+- **Codecademy** - https://www.codecademy.com/profiles/G.Redos
+- **Codewars** - https://www.codewars.com/users/g-redos 
+- **FreeCodeCamp** - https://www.freecodecamp.org/fcc6f52230a-6d1d-4d58-ad5c-ac1c7eaa67f6
+- **GitHub** - https://github.com/G-Redos  
+- **Microsoft Learn** - https://learn.microsoft.com/en-us/users/gregoryredos-6641/
 
 ## VOLUNTEER EXPERIENCE
 *   **Bank of America**, Advisory Panel Member: 2020/12 – Present  
