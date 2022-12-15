@@ -1,4 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=165&section=header&text=Gregory%20Redos&fontSize=90&animation=scaleIn&fontAlignY=50&desc=Junior%20Full%20Stack%20Developer&descSize=20&descAlignY=63&descAlign=72)
+<div align="center">
+    <a href="https://github.com/G-Redos" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"target="_blank"></a>
+    <a href="https://www.linkedin.com/in/gredos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
+    <a href="https://www.gregoryredos.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"target="_blank"></a>
+    <a href="https://twitter.com/g_redos" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"target="_blank"></a>
+</div>
 
 A top-performing professional with strong quantitative and technical skills coupled with a keen ability to recognize the needs of engagement. Strong transformational skills applicable to scenarios that require operational foresight. Excellent communication and leadership skills with a reputation for resolving challenges with innovative solutions, systems, and process improvements proven to increase efficiency and satisfaction levels. Personally, and professionally committed to workflow improvement with a strong track record for implementing process changes that increase the quality of services and deliverables.
 
