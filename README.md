@@ -4,10 +4,10 @@ A top-performing professional with strong quantitative and technical skills coup
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
+| Name                         | Description       | Tech Stack        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Acebook** | A social media web application, like Facebook | Node.js, Express.js, MongoDB,Mongoose, Handlebars, Jest              |
 
 ## Work Experience
 **DIGITAL PROJECT MANAGER, EFWP: 2020/02 – PRESENT**
@@ -61,6 +61,13 @@ Consider skills relevent to software development. Then consider your best skills
 -What did you do? (action)
 
 -What was the result?
+
+## TECH STACK
+| IDE                         | LANGUAGES       | FRAMEWORK/LIBRARY    |
+| ---------------------------- | ----------------- | ----------------- |
+| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Acebook** | A social media web application, like Facebook | Node.js, Express.js, MongoDB,Mongoose, Handlebars, Jest              |
+
 
 
 #### This Skill
