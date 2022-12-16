@@ -143,6 +143,22 @@ A top-performing professional with strong quantitative and technical skills coup
 </div>
 
 ## CERTIFICATION
+- AZ-305: Designing Microsoft Azure Infrastructure Solutions - Ongoing Training
+    - Aligning Challenge: Microsoft Ignite: Intelligent Cloud Challenge
+- AZ-400: Designing and Implementing Microsoft DevOps Solutions - Ongoing Training
+    - Aligning Challenge: Microsoft Ignite: Cloud Developer Challenge
+- DP-100: Designing and Omplementing A Data Science Solution on Azure - Ongoing Training
+    - Aligning Challenge: Microsoft Ignite: AI Automation Challenge
+- MB-240: Microsoft Dynamics 365 Field Service Functional Consultant - Ongoing Training
+    - Aligning Challenge: Microsoft Ignite: Field Service Automation Challenge
+- MS-700: Managing Microsoft Teams - Ongoing Training
+    - Aligning Challenge: Microsoft Ignite: Modern Work Challenge
+- MS-720: Microsft Teams Voice Engineer - Ongoing Training
+    - Aligning Challenge: Microsoft Ignite: Modern Work Challenge
+- PL-100: Microsoft Power Platform App Maker - Ongoing Training
+    - Aligning Challenge: Microsoft Ignite: Cloud App Maker Challenge
+- SC-200: Microsoft Security Operations Analyst- Ongoing Training
+    - Aligning Challenge: Microsoft Ignite: Protect Everything Challenge
 - Google IT Automation with Python – Ongoing Training
     - Crash Course on Python
     - Using Python to Interact with the Operating System
