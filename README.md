@@ -11,10 +11,13 @@
 ## PERSONAL SUMMARY
 A top-performing professional with strong quantitative and technical skills coupled with a keen ability to recognize the needs of engagement. Strong transformational skills applicable to scenarios that require operational foresight. Excellent communication and leadership skills with a reputation for resolving challenges with innovative solutions, systems, and process improvements proven to increase efficiency and satisfaction levels. Personally, and professionally committed to workflow improvement with a strong track record for implementing process changes that increase the quality of services and deliverables.
 
+</br>
+
 ## SKILLS
 • Project Management    • Project Planning		• Adaptability        • Creative Thinking		• Customer Service		• Problem Solving
 • Team Work 			• Empathy               • Detail-Oriented 
 
+</br>
 
 ## PROJECTS
 | Name                         | Description       | Tech/Tools        |
@@ -23,6 +26,7 @@ A top-performing professional with strong quantitative and technical skills coup
 | [**Tetris**](https://github.com/G-Redos/MAKERS-W11-Final-Project-Tetris) | A famous game, that everyone remembers | Python, Pygame |
 | [**Acebook**](https://github.com/ritaaktay/acebook)  | A social media web application, like Facebook | Node.js, Express.js, MongoDB, Mongoose, Handlebars, Jest |
 | [**Makers BnB**](https://github.com/G-Redos/MAKERS-W5-makersbnb-ruby-seed) | A web application for accommodation bookings, like Airbnb. | Ruby, Sinatra, PostgreSQL, ERB, RSpec |
+</br>
 
 ## WORK EXPERIENCE
 **DIGITAL PROJECT MANAGER, EFWP: 2020/02 – PRESENT**
@@ -52,6 +56,8 @@ A top-performing professional with strong quantitative and technical skills coup
 * Responsible for business negotiations, governance with distributors and suppliers.
 * Contact with Program Board members and speakers.
 * Event and customer service.
+
+</br>
 
 ## TECH STACK
 ### Cloud
@@ -140,6 +146,7 @@ A top-performing professional with strong quantitative and technical skills coup
     <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"/>
     <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
 </div>
+<br>
 
 ## CERTIFICATION
 - AZ-305: Designing Microsoft Azure Infrastructure Solutions - Ongoing Training
@@ -182,6 +189,7 @@ A top-performing professional with strong quantitative and technical skills coup
 - Google Fundamentals of Digital Marketing - REF NR: G4A KFA YT9
 - CompTIA A+ - REG NR: 242987402/VAL	
 - Cisco IT Essentials: PC Hardware and Software - REF NR: 3829712     
+</br>
 
 ## EDUCATION
 * **2022/11 – Makers Academy**
@@ -201,11 +209,15 @@ A top-performing professional with strong quantitative and technical skills coup
     - Master’s Degree in Professional Communications 
     - NARIC: RGF Level 7/SCQF 11/CQFW Level 7
 
+</br>
+
 ## LANGUAGES
 * **English** – Native or bilingual proficiency
 * **Polish** – Native or bilingual proficiency
 * **German** – Professional working proficiency
 * **Russian** – Elementary proficiency
+
+</br>
 
 ## LINKS
 - **Codecademy** - https://www.codecademy.com/profiles/G.Redos
@@ -214,15 +226,23 @@ A top-performing professional with strong quantitative and technical skills coup
 - **GitHub** - https://github.com/G-Redos  
 - **Microsoft Learn** - https://learn.microsoft.com/en-us/users/gregoryredos-6641/
 
+</br>
+
 ## VOLUNTEER EXPERIENCE
-*   **Bank of America**, Advisory Panel Member: 2020/12 – Present  
-*   **Clark University**, Alumni Board Member: 2018/01 – 2020/06
-*   **Federation of Food Banks**, Voluteer: 2017/11 – Present
-*   **AMCHAM**, Volunteer: 2011/12 – Present
+*   2020/12 – Present **Bank of America**, Advisory Panel Member
+*   2018/01 – Present **NASA**, Member  
+*   2018/01 – 2020/06 **Clark University**, Alumni Board Member
+*   2017/11 – Present **Federation of Food Banks**, Voluteer 
+*   2011/12 – Present **AMCHAM**, Volunteer
+*   2011/05 – 2014/03 **The Rays of Hope Group**, Assistant Project Manager
+
+</br>
 
 ## HONORS & AWARDS
 - **League of Green Embassies Award** – Embassy of the United States of America
 - **Letter of Appreciation** – United States Department of State
+
+</br>
 
 ## HOBBIES & INTERESTS
 - Volunteering
