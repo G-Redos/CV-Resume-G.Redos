@@ -194,25 +194,19 @@
 </div>     
 
 ## EDUCATION
-<div>
-
-  - **2022/11 – Makers Academy**
-    - Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-    - OOP, TDD, MVC, DDD
-    - Agile/XP
-    - Ruby, JavaScript, Python
-    - RSpec, Pytest
-
-  - **2021/09 – University of Social Sciences, Warsaw/Poland**
-    - Master’s Degree in International Business Management
-
-  - **2013/11 – University of Social Sciences, Warsaw/Poland**
-    - Postgraduate Degree in Management
-
-  - **2013/11 – CLARK UNIVERSITY, WORCESTER MA, .U.S.A.**
-    - Master’s Degree in Professional Communications 
-    - NARIC: RGF Level 7/SCQF 11/CQFW Level 7
-</div>
+- **2022/11 – Makers Academy**
+  - Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+  - OOP, TDD, MVC, DDD
+  - Agile/XP
+  - Ruby, JavaScript, Python
+  - RSpec, Pytest
+- **2021/09 – University of Social Sciences, Warsaw/Poland**
+  - Master’s Degree in International Business Management
+- **2013/11 – University of Social Sciences, Warsaw/Poland**
+  - Postgraduate Degree in Management
+- **2013/11 – CLARK UNIVERSITY, WORCESTER MA, .U.S.A.**
+  - Master’s Degree in Professional Communications 
+  - NARIC: RGF Level 7/SCQF 11/CQFW Level 7
 
 ## LANGUAGES
 - **English** – Native or bilingual proficiency
