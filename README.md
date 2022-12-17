@@ -220,16 +220,6 @@
   - **Russian** – Elementary proficiency
 </div>  
 
-## **LINKS**
-<div>
-
-  - **Codecademy** - https://www.codecademy.com/profiles/G.Redos
-  - **Codewars** - https://www.codewars.com/users/g-redos 
-  - **FreeCodeCamp** - https://www.freecodecamp.org/fcc6f52230a-6d1d-4d58-ad5c-ac1c7eaa67f6
-  - **GitHub** - https://github.com/G-Redos  
-  - **Microsoft Learn** - https://learn.microsoft.com/en-us/users/gregoryredos-6641/
-</div>
-
 ## **VOLUNTEER EXPERIENCE**
 <div>
 
@@ -260,6 +250,16 @@
   - Sailing
   - Kaizen
   - Education  
+</div>
+
+## **LINKS**
+<div>
+
+  - **Codecademy** - https://www.codecademy.com/profiles/G.Redos
+  - **Codewars** - https://www.codewars.com/users/g-redos 
+  - **FreeCodeCamp** - https://www.freecodecamp.org/fcc6f52230a-6d1d-4d58-ad5c-ac1c7eaa67f6
+  - **GitHub** - https://github.com/G-Redos  
+  - **Microsoft Learn** - https://learn.microsoft.com/en-us/users/gregoryredos-6641/
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=footer)
