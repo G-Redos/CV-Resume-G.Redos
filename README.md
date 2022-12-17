@@ -21,7 +21,7 @@
 
 
 ## **PROJECTS**
-| Name                         | Description       | Tech/Tools        |
+| Name                         | Description       | Tech Stack        |
 | ---------------------------- | ----------------- | ----------------- |
 | [**Tetris .A.I.**](https://github.com/G-Redos/MAKERS-W12-Final-Project-Tetris-AI) | A game of games built with a custom game engine | Python |
 | [**Tetris**](https://github.com/G-Redos/MAKERS-W11-Final-Project-Tetris) | A famous game, that everyone remembers | Python, Pygame |
