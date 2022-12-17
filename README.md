@@ -9,15 +9,16 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=130&section=header&text=Gregory%20Redos&fontSize=90&animation=scaleIn&fontAlignY=68&desc=Junior%20Full%20Stack%20Developer&descSize=20&descAlignY=82&descAlign=72)
 
 ## PERSONAL SUMMARY
-A top-performing professional with strong quantitative and technical skills coupled with a keen ability to recognize the needs of engagement. Strong transformational skills applicable to scenarios that require operational foresight. Excellent communication and leadership skills with a reputation for resolving challenges with innovative solutions, systems, and process improvements proven to increase efficiency and satisfaction levels. Personally, and professionally committed to workflow improvement with a strong track record for implementing process changes that increase the quality of services and deliverables.
-
-</br>
+<div align="left">
+    A top-performing professional with strong quantitative and technical skills coupled with a keen ability to recognize the needs of engagement. Strong transformational skills applicable to scenarios that require operational foresight. Excellent communication and leadership skills with a reputation for resolving challenges with innovative solutions, systems, and process improvements proven to increase efficiency and satisfaction levels. Personally, and professionally committed to workflow improvement with a strong track record for implementing process changes that increase the quality of services and deliverables.
+</div>
 
 ## SKILLS
-• Project Management    • Project Planning		• Adaptability        • Creative Thinking		• Customer Service		• Problem Solving
-• Team Work 			• Empathy               • Detail-Oriented 
+<div align="center">
+    • Project Management    • Project Planning		• Adaptability        • Creative Thinking		• Customer Service		• Problem Solving
+    • Team Work 			• Empathy               • Detail-Oriented 
+</div>
 
-</br>
 
 ## PROJECTS
 | Name                         | Description       | Tech/Tools        |
@@ -26,38 +27,38 @@ A top-performing professional with strong quantitative and technical skills coup
 | [**Tetris**](https://github.com/G-Redos/MAKERS-W11-Final-Project-Tetris) | A famous game, that everyone remembers | Python, Pygame |
 | [**Acebook**](https://github.com/ritaaktay/acebook)  | A social media web application, like Facebook | Node.js, Express.js, MongoDB, Mongoose, Handlebars, Jest |
 | [**Makers BnB**](https://github.com/G-Redos/MAKERS-W5-makersbnb-ruby-seed) | A web application for accommodation bookings, like Airbnb. | Ruby, Sinatra, PostgreSQL, ERB, RSpec |
-</br>
 
 ## WORK EXPERIENCE
-**DIGITAL PROJECT MANAGER, EFWP: 2020/02 – PRESENT**
-* Collaborating effectively with key stakeholders to ensure projects remained on track.
-* Creating schedules and designing processes.
-* Preparing and presenting software proposals to decision makers to negotiate agreements.
-* Identification of business needs of internal users and customers.
-* Contacting service suppliers, supervising over delivered solutions.
-* Authoring or revising project plans, business requirements, functional specifications.
-* Identifying and managing risks to ensure delivery is on time.
-* Designing mockups, UI/UX functionalities and product development.
-* Prioritizing tasks, monitoring the quality and time delivery.
-* Conducting product and technical consultations for business teams.
+<div align="left">
+  
+  **DIGITAL PROJECT MANAGER, EFWP: 2020/02 – PRESENT**
+  * Collaborating effectively with key stakeholders to ensure projects remained on track.
+  * Creating schedules and designing processes.
+  * Preparing and presenting software proposals to decision makers to negotiate agreements.
+  * Identification of business needs of internal users and customers.
+  * Contacting service suppliers, supervising over delivered solutions.
+  * Authoring or revising project plans, business requirements, functional specifications.
+  * Identifying and managing risks to ensure delivery is on time.
+  * Designing mockups, UI/UX functionalities and product development.
+  * Prioritizing tasks, monitoring the quality and time delivery.
+  * Conducting product and technical consultations for business teams.
 
-**OFFICE MANAGER, EFWP: 2017/03 – 2020/02**
-* Managed and maintained calendars for office executives.
-* Oversaw the daily operations and schedules of over 95 employees.
-* Logistic coordination involving suppliers, agreements, invoices.
-* Liaised with clients, vendors, and building maintenance including security.
-* Spearheaded the move to a paperless system which saved the company £20,240 annually and freed up 15% of office space previously used for document storage.
-* Managing the work of project teams.
+  **OFFICE MANAGER, EFWP: 2017/03 – 2020/02**
+  * Managed and maintained calendars for office executives.
+  * Oversaw the daily operations and schedules of over 95 employees.
+  * Logistic coordination involving suppliers, agreements, invoices.
+  * Liaised with clients, vendors, and building maintenance including security.
+  * Spearheaded the move to a paperless system which saved the company £20,240 annually and freed up 15% of office space previously used for document storage.
+  * Managing the work of project teams.
 
-**ASSISTANT PROJECT MANAGER, EUROPEAN CHESS FEDERATION: 2014/09 – 2017/03**
-* Successfully implemented first technological revolution in teaching chess in Poland using state-of-the-art technology in both public schools and private schools.
-* Providing administrative support to multiple Senior Project Managers and was responsible for developing and coordinating the project schedules.
-* Coordinating the implementation of new daily procedures which led to a significant increase in effectiveness and reduction in unnecessary costs by 30%.
-* Responsible for business negotiations, governance with distributors and suppliers.
-* Contact with Program Board members and speakers.
-* Event and customer service.
-
-</br>
+  **ASSISTANT PROJECT MANAGER, EUROPEAN CHESS FEDERATION: 2014/09 – 2017/03**
+  * Successfully implemented first technological revolution in teaching chess in Poland using state-of-the-art technology in both public schools and private schools.
+  * Providing administrative support to multiple Senior Project Managers and was responsible for developing and coordinating the project schedules.
+  * Coordinating the implementation of new daily procedures which led to a significant increase in effectiveness and reduction in unnecessary costs by 30%.
+  * Responsible for business negotiations, governance with distributors and suppliers.
+  * Contact with Program Board members and speakers.
+  * Event and customer service.
+</div>
 
 ## TECH STACK
 ### Cloud
@@ -146,50 +147,60 @@ A top-performing professional with strong quantitative and technical skills coup
     <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"/>
     <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
 </div>
-<br>
 
 ## CERTIFICATION
-- AZ-305: Designing Microsoft Azure Infrastructure Solutions - Ongoing Training
-    - Aligning Challenge: Microsoft Ignite: Intelligent Cloud Challenge
-- AZ-400: Designing and Implementing Microsoft DevOps Solutions - Ongoing Training
-    - Aligning Challenge: Microsoft Ignite: Cloud Developer Challenge
-- DP-100: Designing and Omplementing A Data Science Solution on Azure - Ongoing Training
-    - Aligning Challenge: Microsoft Ignite: AI Automation Challenge
-- MB-240: Microsoft Dynamics 365 Field Service Functional Consultant - Ongoing Training
-    - Aligning Challenge: Microsoft Ignite: Field Service Automation Challenge
-- MS-700: Managing Microsoft Teams - Ongoing Training
-    - Aligning Challenge: Microsoft Ignite: Modern Work Challenge
-- MS-720: Microsft Teams Voice Engineer - Ongoing Training
-    - Aligning Challenge: Microsoft Ignite: Modern Work Challenge
-- PL-100: Microsoft Power Platform App Maker - Ongoing Training
-    - Aligning Challenge: Microsoft Ignite: Cloud App Maker Challenge
-- SC-200: Microsoft Security Operations Analyst- Ongoing Training
-    - Aligning Challenge: Microsoft Ignite: Protect Everything Challenge
-- Google IT Automation with Python – Ongoing Training
-    - Crash Course on Python
-    - Using Python to Interact with the Operating System
-    - Introduction to Git and GitHub
-    - Troubleshooting and Debugging Techniques
-    - Configuration Management and the Cloud
-    - Automating Real-World Tasks with Python
-- Google UX/UI Design – Ongoing Training
-- Google Project Management – Ongoing Training
-- Digital Project Management – Ongoing Training
-- Scrum Master – Ongoing Training
-- Atlassian: Confluence - Foundations
-- Atlassian: Jira - Foundations
-- Atlassian: Trello - Foundations
-- Microsoft: Teams
-- Microsoft: OneNote
-- AgilePM Practitioner		
-- AgilePM Foundations			
-- PRINCE2 Practitioner 6th Edition	
-- PRINCE2 Foundations 6th Edition
-- Google Analytics for Beginners
-- Google Fundamentals of Digital Marketing - REF NR: G4A KFA YT9
-- CompTIA A+ - REG NR: 242987402/VAL	
-- Cisco IT Essentials: PC Hardware and Software - REF NR: 3829712     
-</br>
+<div>
+
+  - AZ-305: Designing Microsoft Azure Infrastructure Solutions - Ongoing Training
+      - Aligning Challenge: Microsoft Ignite: Intelligent Cloud Challenge
+  
+  - AZ-400: Designing and Implementing Microsoft DevOps Solutions - Ongoing Training
+      - Aligning Challenge: Microsoft Ignite: Cloud Developer Challenge
+  
+  - DP-100: Designing and Omplementing A Data Science Solution on Azure - Ongoing Training
+      - Aligning Challenge: Microsoft Ignite: AI Automation Challenge
+  
+  - MB-240: Microsoft Dynamics 365 Field Service Functional Consultant - Ongoing Training
+      - Aligning Challenge: Microsoft Ignite: Field Service Automation Challenge
+  
+  - MS-700: Managing Microsoft Teams - Ongoing Training
+      - Aligning Challenge: Microsoft Ignite: Modern Work Challenge
+  
+  - MS-720: Microsft Teams Voice Engineer - Ongoing Training
+      - Aligning Challenge: Microsoft Ignite: Modern Work Challenge
+  
+  - PL-100: Microsoft Power Platform App Maker - Ongoing Training
+      - Aligning Challenge: Microsoft Ignite: Cloud App Maker Challenge
+  
+  - SC-200: Microsoft Security Operations Analyst- Ongoing Training
+      - Aligning Challenge: Microsoft Ignite: Protect Everything Challenge
+  
+  - Google IT Automation with Python – Ongoing Training
+      - Crash Course on Python
+      - Using Python to Interact with the Operating System
+      - Introduction to Git and GitHub
+      - Troubleshooting and Debugging Techniques
+      - Configuration Management and the Cloud
+      - Automating Real-World Tasks with Python
+  
+  - Google UX/UI Design – Ongoing Training
+  - Google Project Management – Ongoing Training
+  - Digital Project Management – Ongoing Training
+  - Scrum Master – Ongoing Training
+  - Atlassian: Confluence - Foundations
+  - Atlassian: Jira - Foundations
+  - Atlassian: Trello - Foundations
+  - Microsoft: Teams
+  - Microsoft: OneNote
+  - AgilePM Practitioner		
+  - AgilePM Foundations			
+  - PRINCE2 Practitioner 6th Edition	
+  - PRINCE2 Foundations 6th Edition
+  - Google Analytics for Beginners
+  - Google Fundamentals of Digital Marketing - REF NR: G4A KFA YT9
+  - CompTIA A+ - REG NR: 242987402/VAL	
+  - Cisco IT Essentials: PC Hardware and Software - REF NR: 3829712
+</div>     
 
 ## EDUCATION
 * **2022/11 – Makers Academy**
@@ -209,15 +220,13 @@ A top-performing professional with strong quantitative and technical skills coup
     - Master’s Degree in Professional Communications 
     - NARIC: RGF Level 7/SCQF 11/CQFW Level 7
 
-</br>
-
 ## LANGUAGES
 * **English** – Native or bilingual proficiency
 * **Polish** – Native or bilingual proficiency
 * **German** – Professional working proficiency
 * **Russian** – Elementary proficiency
 
-</br>
+
 
 ## LINKS
 - **Codecademy** - https://www.codecademy.com/profiles/G.Redos
