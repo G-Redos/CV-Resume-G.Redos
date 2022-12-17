@@ -53,7 +53,6 @@ A top-performing professional with strong quantitative and technical skills coup
 * Contact with Program Board members and speakers.
 * Event and customer service.
 
-
 ## TECH STACK
 ### Cloud
 <div align="left">
