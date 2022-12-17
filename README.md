@@ -152,37 +152,28 @@
 <div>
 
   - AZ-305: Designing Microsoft Azure Infrastructure Solutions - Ongoing Training
-      - Aligning Challenge: Microsoft Ignite: Intelligent Cloud Challenge
-  
+    - Aligning Challenge: Microsoft Ignite: Intelligent Cloud Challenge
   - AZ-400: Designing and Implementing Microsoft DevOps Solutions - Ongoing Training
-      - Aligning Challenge: Microsoft Ignite: Cloud Developer Challenge
-  
+    - Aligning Challenge: Microsoft Ignite: Cloud Developer Challenge
   - DP-100: Designing and Omplementing A Data Science Solution on Azure - Ongoing Training
-      - Aligning Challenge: Microsoft Ignite: AI Automation Challenge
-  
+    - Aligning Challenge: Microsoft Ignite: AI Automation Challenge
   - MB-240: Microsoft Dynamics 365 Field Service Functional Consultant - Ongoing Training
-      - Aligning Challenge: Microsoft Ignite: Field Service Automation Challenge
-  
+    - Aligning Challenge: Microsoft Ignite: Field Service Automation Challenge
   - MS-700: Managing Microsoft Teams - Ongoing Training
-      - Aligning Challenge: Microsoft Ignite: Modern Work Challenge
-  
+    - Aligning Challenge: Microsoft Ignite: Modern Work Challenge
   - MS-720: Microsft Teams Voice Engineer - Ongoing Training
-      - Aligning Challenge: Microsoft Ignite: Modern Work Challenge
-  
+    - Aligning Challenge: Microsoft Ignite: Modern Work Challenge
   - PL-100: Microsoft Power Platform App Maker - Ongoing Training
-      - Aligning Challenge: Microsoft Ignite: Cloud App Maker Challenge
-  
+    - Aligning Challenge: Microsoft Ignite: Cloud App Maker Challenge
   - SC-200: Microsoft Security Operations Analyst- Ongoing Training
-      - Aligning Challenge: Microsoft Ignite: Protect Everything Challenge
-  
+    - Aligning Challenge: Microsoft Ignite: Protect Everything Challenge
   - Google IT Automation with Python – Ongoing Training
-      - Crash Course on Python
-      - Using Python to Interact with the Operating System
-      - Introduction to Git and GitHub
-      - Troubleshooting and Debugging Techniques
-      - Configuration Management and the Cloud
-      - Automating Real-World Tasks with Python
-  
+    - Crash Course on Python
+    - Using Python to Interact with the Operating System
+    - Introduction to Git and GitHub
+    - Troubleshooting and Debugging Techniques
+    - Configuration Management and the Cloud
+    - Automating Real-World Tasks with Python
   - Google UX/UI Design – Ongoing Training
   - Google Project Management – Ongoing Training
   - Digital Project Management – Ongoing Training
@@ -203,28 +194,32 @@
 </div>     
 
 ## EDUCATION
-* **2022/11 – Makers Academy**
+<div>
+
+  - **2022/11 – Makers Academy**
     - Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
     - OOP, TDD, MVC, DDD
     - Agile/XP
     - Ruby, JavaScript, Python
     - RSpec, Pytest
 
-* **2021/09 – University of Social Sciences, Warsaw/Poland**
+  - **2021/09 – University of Social Sciences, Warsaw/Poland**
     - Master’s Degree in International Business Management
 
-* **2013/11 – University of Social Sciences, Warsaw/Poland**
+  - **2013/11 – University of Social Sciences, Warsaw/Poland**
     - Postgraduate Degree in Management
 
-* **2013/11 – CLARK UNIVERSITY, WORCESTER MA, .U.S.A.**
+  - **2013/11 – CLARK UNIVERSITY, WORCESTER MA, .U.S.A.**
     - Master’s Degree in Professional Communications 
     - NARIC: RGF Level 7/SCQF 11/CQFW Level 7
+</div>
 
 ## LANGUAGES
-* **English** – Native or bilingual proficiency
-* **Polish** – Native or bilingual proficiency
-* **German** – Professional working proficiency
-* **Russian** – Elementary proficiency
+- **English** – Native or bilingual proficiency
+- **Polish** – Native or bilingual proficiency
+- **German** – Professional working proficiency
+- **Russian** – Elementary proficiency
+  - test
 
 
 
