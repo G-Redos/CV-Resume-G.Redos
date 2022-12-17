@@ -10,13 +10,13 @@
 
 ## **PERSONAL SUMMARY**
 <div align="left">
-    A top-performing professional with strong quantitative and technical skills coupled with a keen ability to recognize the needs of engagement. Strong transformational skills applicable to scenarios that require operational foresight. Excellent communication and leadership skills with a reputation for resolving challenges with innovative solutions, systems, and process improvements proven to increase efficiency and satisfaction levels. Personally, and professionally committed to workflow improvement with a strong track record for implementing process changes that increase the quality of services and deliverables.
+  A top-performing professional with strong quantitative and technical skills coupled with a keen ability to recognize the needs of engagement. Strong transformational skills applicable to scenarios that require operational foresight. Excellent communication and leadership skills with a reputation for resolving challenges with innovative solutions, systems, and process improvements proven to increase efficiency and satisfaction levels. Personally, and professionally committed to workflow improvement with a strong track record for implementing process changes that increase the quality of services and deliverables.
 </div>
 
 ## **SKILLS**
 <div align="center">
     • Project Management    • Project Planning		• Adaptability        • Creative Thinking		• Customer Service		• Problem Solving
-    • Team Work 			• Empathy               • Detail-Oriented 
+    • Team Work 			• Empathy               • Detail-Oriented • 
 </div>
 
 
