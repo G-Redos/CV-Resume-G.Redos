@@ -43,6 +43,18 @@
    - Prioritizing tasks, monitoring the quality and time delivery.
    - Conducting product and technical consultations for business teams.
 
+  **DIGITAL PROJECT MANAGER, EFWP: 2020/02 – PRESENT**
+   - Collaborating effectively with key stakeholders to ensure projects remained on track.
+   - Creating schedules and designing processes.
+   - Preparing and presenting software proposals to decision makers to negotiate agreements.
+   - Identification of business needs of internal users and customers.
+   - Contacting service suppliers, supervising over delivered solutions.
+   - Authoring or revising project plans, business requirements, functional specifications.
+   - Identifying and managing risks to ensure delivery is on time.
+   - Designing mockups, UI/UX functionalities and product development.
+   - Prioritizing tasks, monitoring the quality and time delivery.
+   - Conducting product and technical consultations for business teams.
+
   **OFFICE MANAGER, EFWP: 2017/03 – 2020/02**
    - Managed and maintained calendars for office executives.
    - Oversaw the daily operations and schedules of over 95 employees.
