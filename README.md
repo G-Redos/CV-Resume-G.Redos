@@ -31,6 +31,7 @@
 ## **WORK EXPERIENCE**
 <div align="left">
   
+  
   **DIGITAL PROJECT MANAGER, EFWP: 2020/02 – PRESENT**
    - Collaborating effectively with key stakeholders to ensure projects remained on track.
    - Creating schedules and designing processes.
