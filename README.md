@@ -1,9 +1,9 @@
 <div align="center">
     <a href="https://github.com/G-Redos/CV-Resume-G.Redos" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CV/RESUME&color=c0c5ce&logo=About.me&logoColor=FFFFFF&label="target="_blank"></a>
     <a href="https://github.com/G-Redos" target="_blank"><img src="https://img.shields.io/badge/GitHub-c0c5ce?style=for-the-badge&logo=github&logoColor=white"target="_blank"></a>
-    <a href="https://www.linkedin.com/in/gredos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-c0c5ce?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
+    <a href="https://www.linkedin.com/in/g-redos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-c0c5ce?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
     <a href="https://twitter.com/g_redos" target="_blank"><img src="https://img.shields.io/badge/Twitter-c0c5ce?style=for-the-badge&logo=twitter&logoColor=white"target="_blank"></a>
-    <a href="https://www.gregoryredos.com" target="_blank"><img src="https://img.shields.io/badge/website-c0c5ce?style=for-the-badge&logo=About.me&logoColor=white"target="_blank"></a>
+    <a href="https://www.gredos.ai" target="_blank"><img src="https://img.shields.io/badge/website-c0c5ce?style=for-the-badge&logo=About.me&logoColor=white"target="_blank"></a>
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=130&section=header&text=Gregory%20Redos&fontSize=90&animation=scaleIn&fontAlignY=68&desc=Full%20Stack%20Developer&descSize=20&descAlignY=82&descAlign=72)
@@ -169,14 +169,14 @@
   - **Codewars** - https://www.codewars.com/users/g-redos 
   - **FreeCodeCamp** - https://www.freecodecamp.org/fcc6f52230a-6d1d-4d58-ad5c-ac1c7eaa67f6
   - **GitHub** - https://github.com/G-Redos  
-  - **Microsoft Learn** - [https://learn.microsoft.com/en-us/users/gregoryredos-6641/](https://learn.microsoft.com/en-us/users/g-redos/)
+  - **Microsoft Learn** - https://learn.microsoft.com/en-us/users/g-redos/
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=footer)
 <div align="center">
     <a href="https://github.com/G-Redos/CV-Resume-G.Redos" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CV/RESUME&color=c0c5ce&logo=About.me&logoColor=FFFFFF&label="target="_blank"></a>
     <a href="https://github.com/G-Redos" target="_blank"><img src="https://img.shields.io/badge/GitHub-c0c5ce?style=for-the-badge&logo=github&logoColor=white"target="_blank"></a>
-    <a href="https://www.linkedin.com/in/gredos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-c0c5ce?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
+    <a href="https://https://www.linkedin.com/in/g-redos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-c0c5ce?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
     <a href="https://twitter.com/g_redos" target="_blank"><img src="https://img.shields.io/badge/Twitter-c0c5ce?style=for-the-badge&logo=twitter&logoColor=white"target="_blank"></a>
-    <a href="https://www.gregoryredos.com" target="_blank"><img src="https://img.shields.io/badge/website-c0c5ce?style=for-the-badge&logo=About.me&logoColor=white"target="_blank"></a>
+    <a href="https://www.gredos.ai" target="_blank"><img src="https://img.shields.io/badge/website-c0c5ce?style=for-the-badge&logo=About.me&logoColor=white"target="_blank"></a>
 </div>
